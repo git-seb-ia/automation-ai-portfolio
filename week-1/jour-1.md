@@ -3,14 +3,23 @@ Création du compte Github
 Ajout clé ssh et connexion de Macbook
 
 Commande Git indispensable : 
+
 git status
+
 git add <fichier>
+
 git commit -m "message"
+
 git diff
+
 git log --oneline --graph
+
 git branch <nom>
+
 git checkout <nom>
+
 git merge <nom>
+
 git restore <file>
 
 lorsqu'on modifie ou créer un fichier 
