@@ -20,9 +20,10 @@ git branch <nom>
 git checkout <nom>
 
 git merge <nom>
-```
 
 git restore <file>
+
+```
 
 lorsqu'on modifie ou créer un fichier 
 on l'ajoute :
