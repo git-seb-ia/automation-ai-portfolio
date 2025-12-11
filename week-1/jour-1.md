@@ -27,8 +27,11 @@ git restore <file>
 
 lorsqu'on modifie ou créer un fichier 
 on l'ajoute :
-# git add README.md (par exemple)
+``` git add README.md (par exemple) ```
+
 puis on écrit le message de doc 
-# git commit -m "mon message"
+```  git commit -m "mon message" ```
+
 puis on push la version 
-# git push
+```  git push ```
+
