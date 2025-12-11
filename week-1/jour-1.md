@@ -2,11 +2,17 @@
 Ajout de la structure portfolio en local 
 
 └── portfolio
+
     ├── notes
+
     ├── projects
+
     ├── README.md
+
     ├── week-1
+
     │   └── jour-1.md
+
     └── week-2
 
 - Création du compte Github, en ligne sur github.com
