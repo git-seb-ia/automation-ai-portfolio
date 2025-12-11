@@ -4,6 +4,7 @@ Ajout clé ssh et connexion de Macbook
 
 Commande Git indispensable : 
 
+```
 git status
 
 git add <fichier>
@@ -19,6 +20,7 @@ git branch <nom>
 git checkout <nom>
 
 git merge <nom>
+```
 
 git restore <file>
 
