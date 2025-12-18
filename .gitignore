@@ -1,0 +1,9 @@
+# n8n generated files
+n8n-local/files/*
+n8n-local/data/*
+
+# OS
+.DS_Store
+
+# Logs
+*.log
