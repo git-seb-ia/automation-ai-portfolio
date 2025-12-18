@@ -1,6 +1,6 @@
 # n8n generated files
-n8n-local/files/*
-n8n-local/data/*
+week-1/n8n-local/files/*
+week-1/n8n-local/data/*
 
 # OS
 .DS_Store
