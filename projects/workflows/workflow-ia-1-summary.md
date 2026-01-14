@@ -109,4 +109,6 @@ Préparation à la mise en production
 Approche test-first sans dépendance externe
 
 
-
+ ## Version réelle (multi-provider)
+Une version "real" du workflow utilise 1min.ai comme LLM principal,
+avec fallback mock automatique en cas d’erreur ou quota dépassé.
